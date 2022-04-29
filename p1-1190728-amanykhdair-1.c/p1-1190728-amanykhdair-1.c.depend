@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619039673 source:c:\users\hp pro\desktop\dana\p1-1190728-amanykhdair-1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
+1619041830 source:c:\users\hp pro\desktop\2th semester\data\projects\p1-1190728-amanykhdair-1.c\p1-1190728-amanykhdair-1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
